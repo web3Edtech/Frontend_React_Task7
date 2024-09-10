@@ -1,2 +1,2 @@
-# Frontend_React_Task6
-Making API Calls in a Profile Website with React
+# Frontend_React_Task7
+Beginner-Level API Calls in React for a Profile Website
